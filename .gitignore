@@ -1,0 +1,4 @@
+.theia
+.gitpod.dockerfile
+.gitpod.yml
+init_tasks.sh
