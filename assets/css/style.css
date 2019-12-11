@@ -1,0 +1,35 @@
+body {
+    background-color: #fdfdfd;
+    font-family: ;
+}
+
+/* NAVBAR */
+
+.navbar {
+    background: none;
+    border-color: transparent;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+
+.navbar .navbar-collapse {
+    text-align: right;
+    border-top: 1px solid transparent;
+    overflow-x: hidden;
+}
+
+.navbar-nav li a {
+    padding: 20px 25px 15px 25px;
+    color: transparent;
+}
+
+@media (max-width:5000px) {
+    .navbar-header {
+        float: none;
+    }
+
+    .navbar-toggle {
+        display: block;
+    }
+
+    }
