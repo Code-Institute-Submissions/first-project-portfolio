@@ -3,8 +3,6 @@ body {
     font-family: ;
 }
 
-/* NAVBAR */
-
 /*----------NAVBAR---------*/
 
 .navbar {
@@ -21,7 +19,7 @@ body {
 }
 
 .navbar-nav li a {
-    padding: ;
+    padding: 0px;
     color: #000;
 }
 
@@ -95,3 +93,5 @@ h1 {
     color: rgb(94, 94, 94);
     text-align: center;
 }
+
+
