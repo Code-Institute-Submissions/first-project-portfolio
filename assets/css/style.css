@@ -13,7 +13,7 @@ body {
 }
 
 .navbar .navbar-collapse {
-    text-align: right;
+    text-align: left;
     border-top: 1px solid transparent;
     overflow-x: hidden;
 }
@@ -23,15 +23,14 @@ body {
     color: #000;
 }
 
-.navbar-fixed-top .container-fluid {
+.fixed-top .container {
     text-align: left;
-    margin-right: 1%;
-    margin-top: 1%;
+    margin: 0;
 }
 
 .language {
     display: inline-block;
-    padding-right: 20px;
+    padding: 1px;
     line-height: 44px;
 }
 
@@ -78,7 +77,7 @@ a {
 }
 
 h1 {
-    padding-top: 5%;
+    padding-top: 12%;
     font-size: 3.5em;
     color: rgb(94, 94, 94);
     text-align: center;
