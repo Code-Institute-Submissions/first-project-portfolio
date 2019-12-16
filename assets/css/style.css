@@ -24,8 +24,10 @@ body {
 }
 
 .fixed-top .container {
-    text-align: left;
+    text-align: right;
     margin: 0;
+    justify-content: flex-end;
+    margin-left: auto;
 }
 
 .language {
@@ -53,9 +55,6 @@ a {
 
 .navbar .navbar-nav li a:hover {
     color: rgb(255, 255, 255);
-}
-.navbar-right {
-    float: right;
 }
 
 /*----------JUMBOTRON----------*/
@@ -91,6 +90,15 @@ h1 {
     font-size: 2em;
     color: rgb(94, 94, 94);
     text-align: center;
+}
+
+i {
+    width: 55px;
+    padding: 20px 0;
+    font-size: 38px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 2.5px;
 }
 
 
