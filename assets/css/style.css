@@ -13,7 +13,6 @@ body {
 }
 
 .navbar .navbar-collapse {
-    text-align: left;
     border-top: 1px solid transparent;
     overflow-x: hidden;
 }
@@ -100,5 +99,37 @@ i {
     margin-top: 0;
     margin-bottom: 2.5px;
 }
+
+/*-- About me section --*/
+
+.about-row {
+    color: #c3c8ce;
+    padding-bottom: 10%;
+    font-size: 1.75em;
+    line-height: 2;
+}
+
+h2 {
+    margin-left: 15px;
+    margin-top: 15%;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+
+.about-row .about-p {
+    font-size: .8em;
+    margin: 40px 0px 40px 0px;
+}
+
+
+/*-- Media querie --*/
+
+@media (min-width: 992px) {
+#about-me {
+    background-image: url("../images/myself-placeholder1.jpg");
+    background-position: center;
+    background-size: cover;
+    width : 100vw;
+    }
 
 
