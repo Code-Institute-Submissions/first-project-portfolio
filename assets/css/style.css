@@ -11,6 +11,7 @@ body {
     border-color: transparent;
     letter-spacing: 7px;
     text-transform: uppercase;
+    padding: 0;
 }
 
 .navbar .navbar-collapse {
@@ -139,6 +140,14 @@ h2 {
 
 .card-title .card-text {
     margin: 0;
+}
+
+.career-icon {
+    width: 25px;
+    padding: 0;
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 2.5px;
 }
 
 
