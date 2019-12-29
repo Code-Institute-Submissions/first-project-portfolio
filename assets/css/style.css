@@ -152,6 +152,15 @@ h2 {
     margin-bottom: 2.5px;
 }
 
+/* -- project section --*/
+
+.project-icon {
+    text-align: center;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+}
+
 
 /*-- Media querie --*/
 
