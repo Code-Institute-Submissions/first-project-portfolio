@@ -14,6 +14,9 @@ body {
     padding: 0;
 }
 
+.navbar-toggeler {
+    background-color: rgba(0, 0, 0, 0.47);
+}
 .navbar .navbar-collapse {
     border-top: 1px solid transparent;
     overflow-x: hidden;
@@ -125,8 +128,22 @@ h2 {
 
 /*-- Career section --*/
 
+#career {
+    background-attachment: fixed;
+    background-image: url(../images/career-image.jpg);
+    background-position: center;
+    background-size: cover;
+    /* width: 100vw; */
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+    position: relative;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
+
 .card {
     margin: 40px 0px 40px 0px;
+    background-color: #ffffff3b;
 }
 
 .card-body {
@@ -145,14 +162,29 @@ h2 {
 }
 
 .career-icon {
-    width: 25px;
+    /*-- width: 25px; --*/
     padding: 0;
     font-size: 35px;
     margin-top: 0;
     margin-bottom: 2.5px;
 }
+/*-- Education section --*/
+
 
 /* -- project section --*/
+
+#project-bg {
+    background-attachment: fixed;
+    background-image: url(../images/project-image.jpg);
+    background-position: center;
+    background-size: cover;
+    /* width: 100vw; */
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+    position: relative;
+    font-weight: 300;
+    margin-bottom: 0px;
+}
 
 .project-icon {
     text-align: center;
@@ -171,5 +203,15 @@ h2 {
     background-size: cover;
     width : 100vw;
     }
+
+@media (min-width: 992px) {
+#education-bg {
+    background-image: url("../images/education-image.jpg");
+    background-position: center;
+    background-size: cover;
+    width : 100vw;
+    padding-bottom: 10%;
+    }
+
 
 
