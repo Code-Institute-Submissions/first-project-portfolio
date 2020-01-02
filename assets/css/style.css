@@ -47,7 +47,7 @@ body {
 
 a {
     background-color: transparent;
-    color: #888888;
+    color: #404040;
     font-size: 1.12em;
     padding-left: 10px;
     padding-right: 10px;
@@ -133,7 +133,7 @@ h2 {
     background-image: url(../images/career-image.jpg);
     background-position: center;
     background-size: cover;
-    /* width: 100vw; */
+    width: 100vw;
     padding-bottom: 50px;
     background-repeat: no-repeat;
     position: relative;
@@ -170,15 +170,44 @@ h2 {
 }
 /*-- Education section --*/
 
+.education-color {
+   color:white; 
+}
+
+#education-menu ul {
+    padding:0;
+    left:auto;
+}
+
+#education-menu li {
+    margin:0 20px 5px 0;
+    list-style-type:none;
+    float:left;
+    position:relative;
+}
+
+#education-menu ul ul li {
+    float:none;
+    padding:0;
+    margin:0 0 2px 0;
+    font-weight:normal;
+    display:block;
+    width:auto;
+    border:0;
+}
+
+.card-content {
+    background-color:#ffffff54;
+}
 
 /* -- project section --*/
 
-#project-bg {
+#projects-bg {
     background-attachment: fixed;
     background-image: url(../images/project-image.jpg);
     background-position: center;
     background-size: cover;
-    /* width: 100vw; */
+    width: 100vw;
     padding-bottom: 50px;
     background-repeat: no-repeat;
     position: relative;
@@ -193,6 +222,11 @@ h2 {
     margin: 0;
 }
 
+.card-footer {
+    background-color: #ffffffad;
+    padding: 0;
+    margin: 0;
+}
 
 /*-- Media querie --*/
 
