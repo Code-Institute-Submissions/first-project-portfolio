@@ -83,7 +83,7 @@ a {
 h1 {
     padding-top: 12%;
     font-size: 3.5em;
-    color: rgb(94, 94, 94);
+    color: #404040;
     text-align: center;
 }
 
@@ -93,7 +93,7 @@ h1 {
 
 .jumbotron p {
     font-size: 2em;
-    color: rgb(94, 94, 94);
+    color: #404040;
     text-align: center;
 }
 
@@ -215,6 +215,10 @@ h2 {
     margin-bottom: 0px;
 }
 
+.project-color {
+    color: #000;
+}
+
 .project-icon {
     text-align: center;
     font-size: 30px;
@@ -230,6 +234,38 @@ h2 {
     background-color: #ffffffad;
     padding: 0;
     margin: 0;
+}
+
+/*-- Contact --*/
+
+#contact {
+    background-position: left;
+    padding-bottom: 100px;
+    padding-top: 42px;
+    text-align: left;
+    margin-bottom: 30px;
+    background-color:#b9b9b9;
+}
+
+.contact-h2 {
+    margin-left: 15px;
+    margin-top: 15%;
+    margin-bottom: 5%;
+    letter-spacing: 7px;
+    text-transform: uppercase;
+}
+
+
+.contact {
+    margin: 15px 0px 15px 0px;
+}
+
+#contact-head {
+    margin: 30px -11px 25px 0px;
+}
+
+.btn-default {
+    background-color: #ccc;
 }
 
 /*-- Media querie --*/
