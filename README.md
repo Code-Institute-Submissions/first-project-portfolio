@@ -1,7 +1,9 @@
-# Code Institute
+# Joeri van den Kieboom Portfolio
 
-Welcome Joeri157,
+First Project: User-Centric Frontend Development - Code Institute
 
-We have preinstalled all of the tools you need to get started.
+This is my very first project in programming, i tried to do different kind of things so i could train myself and let other people see that i might be capable of doing more
 
-Happy coding!
+### Website
+
+Website could be found #[here](https://https://joeri157.github.io/first-project-portfolio/index.html)
