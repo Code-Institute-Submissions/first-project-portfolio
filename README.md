@@ -54,4 +54,6 @@ I've used this portfolio as inspiration [here](https://ryanfitzgerald.ca/devport
 
 I've used this portfolio as inspiration [here](https://www.haleyschafer.com/)
 
+The mailto on my contact form is from [here](https://css-tricks.com/all-about-mailto-links/)
+
 I've used a footer from [here](https://mdbootstrap.com/education/bootstrap/)
