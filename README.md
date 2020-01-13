@@ -17,10 +17,15 @@ Website-link could be found [here](https://joeri157.github.io/first-project-port
 ### Wireframes
 
 *[Welcome-page](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/WelcomePage.jpg)
+
 *[About-me](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/About-Me.jpg)
+
 *[Career](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/Career.jpg)
+
 *[Education](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/Education-training.jpg)
+
 *[Projects](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/Projects.jpg)
+
 *[Contact](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/Contact.jpg)
 
 ### Testing
