@@ -56,7 +56,7 @@ Currently i also use these projects as links in my project-section
 I've used this portfolio as inspiration [here](https://mmacneil.github.io/devfolio/)
 (this is the one i've mostly used especially for the navbar)
 
-I've used these portfolio's as inspiration [here](https://ryanfitzgerald.ca/devportfolio/)[here](https://www.haleyschafer.com/)
+I've used these portfolio's as inspiration [here](https://ryanfitzgerald.ca/devportfolio/)--[here](https://www.haleyschafer.com/)
 
 The mailto on my contact form is from [here](https://css-tricks.com/all-about-mailto-links/)
 
