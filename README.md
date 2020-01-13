@@ -14,6 +14,15 @@ Website-link could be found [here](https://joeri157.github.io/first-project-port
 2. CSS
 3. Bootstrap
 
+### Wireframes
+
+[Welcome-page](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/WelcomePage.jpg)
+[About-me](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/About-Me.jpg)
+[Career](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/Career.jpg)
+[Education](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/Education-training.jpg)
+[Projects](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/Projects.jpg)
+[Contact](https://github.com/Joeri157/first-project-portfolio/blob/master/wireframes/Contact.jpg)
+
 ### Testing
 
 This portfolio is meant to showcase my skills that i learned in a short period of time. it's to showcase other people in the future what i am capable of doing and i wanna improve this portfolio when i got a little bit more experience.
@@ -31,9 +40,6 @@ The Navbar also moves you to the correct sections when you click on them.
 
 I've went for a collapsed navbar regardless of the screen, cause i have the feeling it would've fit the best for my site.
 
-### Features left to implent
-
-for now there are projects of other people on it, because i dont made alot of projects yet. i implent to update this portfolio in the future with other projects.
 
 ### Credits
 
@@ -50,9 +56,7 @@ Currently i also use these projects as links in my project-section
 I've used this portfolio as inspiration [here](https://mmacneil.github.io/devfolio/)
 (this is the one i've mostly used especially for the navbar)
 
-I've used this portfolio as inspiration [here](https://ryanfitzgerald.ca/devportfolio/)
-
-I've used this portfolio as inspiration [here](https://www.haleyschafer.com/)
+I've used these portfolio's as inspiration [here](https://ryanfitzgerald.ca/devportfolio/)[here](https://www.haleyschafer.com/)
 
 The mailto on my contact form is from [here](https://css-tricks.com/all-about-mailto-links/)
 
