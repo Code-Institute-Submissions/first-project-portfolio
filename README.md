@@ -34,7 +34,7 @@ This portfolio is meant to showcase my skills that i learned in a short period o
 So when you open my portfolio on a desktop you will see that every section has a picture. when you go towards lower pixels you will see that some of the picture will dissapear so it wont be as busy as it should be on smaller devices.
 Also every font-awesome icon has a a clickable link (same goes for the pictures), because some icons will go away on smaller devices, so you are still able to visit the sites.
 
-On the contact section you will get a notification when you didnt fill in the required content. After when you've entered all the required content and you click on send a new window will open to send it towards me, because i've added a mailto in the form towards me.
+On the contact section you will get a notification when you didnt fill in the required content. After when you've entered all the required content and you click on send, it will take you back to the front page.
 
 All links will open on a new tab because of the 'target="_blank"' and this also means for the CV. I went for the new tab CV, cause i didnt want people to download an unnecessary file when you accidently click on it. You are able to download it with inside the new tab.
 Ever link is tested to get you to the right destination.
@@ -45,6 +45,10 @@ The Navbar also moves you to the correct sections when you click on them.
 
 I've went for a collapsed navbar regardless of the screen, cause i have the feeling it would've fit the best for my site.
 
+### Deployment
+
+This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named `index.html`. Keep in mind that index.html file will be rendered as the home page of published website, if index.html is not found, README.md will be published.
+ 
 
 ### Credits
 
