@@ -69,4 +69,4 @@ I've used these portfolio's as inspiration [here](https://ryanfitzgerald.ca/devp
 
 The mailto on my contact form is from [here](https://css-tricks.com/all-about-mailto-links/)
 
-I've used a footer from [here](https://mdbootstrap.com/education/bootstrap/)
+I've used a footer from [here](https://mdbootstrap.com/education/bootstrap/) this is the footer page [here](https://mdbootstrap.com/docs/jquery/navigation/footer/)
